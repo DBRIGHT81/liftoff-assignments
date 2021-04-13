@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Everyone should have basic healthcare, but it can be a challenge to
+find adequate help and mental health is often overlooked due to lack of access, language barriers and just not knowing where to look.
+The goal with this app is to help users locate mental healthcare while also providing resources to users whose first language may not be English.
 ### Features
-Include Features here
+Search and Map Feature(Would help the user locate mental healthcare providers and resources in proximity to their neighborhood)
+Language Select(The user would be able to navigate the app based on the language they use and find help in their native language)
+Login(The user would be able to create a profile and leave reviews on their experience with the help they received)
 ### Technologies
-Include Technologies here
+Java, Spring, Thymeleaf and Hibernate would be some of the tools used to create this app
 ### What I'll Have to Learn
-Include what you will need to learn here
+I would like to find an api that could post local bus and metrolink routes for those who might have issues finding transportation. I'll also how figure out how to translate language selected by the user
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/g8qXOG1x/launchcode-liftoff
